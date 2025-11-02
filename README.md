@@ -1,6 +1,15 @@
 <div align="center"> 
 
-# What's New
-What's New for PS3™ 4K Pro, all the latest news about PS3™ 4K Pro and features are displayed there.
+# PlayStationWhat's New
+what
 
-![image](https://user-images.githubusercontent.com/74815634/148670581-1043bf51-d65d-4862-8664-3e8370370d70.png)
+<div align="left"> 
+  
+# ... but why this repo exists?
+for having fun with making custom whats new, like what i did do in wii u wara wara plaza
+
+# Credits
+ - Sony Computer Entertainment (for Original "What's New" contents, PlayStation trademark)
+ - PSX-Place ("What's New" researches)
+   - https://www.psx-place.com/threads/research-quick-preview-loading-whats-new-locally-from-ps3-wscreen.26482/
+ - PS3™ 4K Pro (Documentations about "What's New" xmls, Example medias)
