@@ -1,6 +1,6 @@
 <div align="center"> 
 
-# PlayStationWhat's New
+# PlayStation 3 "Custom" What's New
 what
 
 <div align="left"> 
