@@ -1,9 +1,5 @@
-<div align="center"> 
-
 # PlayStation 3 "Custom" What's New
 what
-
-<div align="left"> 
   
 # ... but why this repo exists?
 for having fun with making custom whats new, like what i did do in wii u wara wara plaza
